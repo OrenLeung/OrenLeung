@@ -11,7 +11,6 @@
 ### I am Oren Leung
 - Aspiring Software and NLP Engineer.
 - A Software Engineering Student @uWaterloo
-- Senior Developer/Technical Advisor @rapidotapp
 - Ex-Intern @VoicAI; used technologies such as React, FastAPI, Spacy, Docker, Nginx, Kubernetes
 - Fast Learner! ⏫
 - I'm currently looking for opportunities.
