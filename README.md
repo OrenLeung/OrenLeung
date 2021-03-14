@@ -8,13 +8,14 @@
 <br />
 
 ### I am Oren Leung
-- Aspiring Software and NLP Engineer.
-- A Software Engineering Student @uWaterloo
-- Ex-Intern @VoicAI; 
+- Aspiring Software Engineer
+- Incoming SWE Intern @UpTake
+- Software Engineering Student @uWaterloo
+- Ex-Intern @VoicAI
 - Tech Stack: React, FastAPI, Spacy, Docker, Kubernetes
 - Fast Learner! ⏫
 - **3x3 Rubik Cube Unoffical Best: 15.44s**
-- I'm currently looking for opportunities.
+- I'm currently looking for SWE opportunities.
 
 
 Feel Free to Connect Me!
