@@ -1,5 +1,5 @@
 ### I am Oren Leung
-- Incoming SWE Intern @UpTake
+- Incoming SWE Intern uptake.com
 - Software Engineering Student @uWaterloo
 - Ex-Intern @VoicAI
 - Tech Stack: React, Python, Node.js, Docker, Kubernetes
