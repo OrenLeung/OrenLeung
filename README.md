@@ -1,4 +1,7 @@
-### Welcome to Oren's GitHub
+## Welcome to Oren's GitHub
+
+-----------
+
 - Incoming SWE Intern @UpTake
 - Software Engineering Student @uWaterloo
 - Ex-Intern @VoicAI
